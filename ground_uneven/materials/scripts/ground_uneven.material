@@ -1,0 +1,17 @@
+material ground_uneven/ground_uneven
+{
+  receive_shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture texture.jpeg
+        filtering anistropic
+        max_anisotropy 16
+        scale 1 1
+      }
+    }
+  }
+}

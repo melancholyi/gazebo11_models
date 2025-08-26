@@ -1,7 +1,7 @@
 <!--
  * @Author: chasey && melancholycy@gmail.com
  * @Date: 2025-03-15 06:51:12
- * @LastEditTime: 2025-06-06 09:35:13
+ * @LastEditTime: 2025-08-26 12:34:43
  * @FilePath: /models/README.md
  * @Description: 
  * @Reference: 
@@ -20,3 +20,4 @@
 |**folder name** | **size** | image overview |  
 | ----------- | ---------- | ---------- |
 |ruinsV1| 50 x 50m|![ruinsV1](./docs/ruinsV1.png)|
+|hills|20x20|![hills](./docs/hills.png)|  
